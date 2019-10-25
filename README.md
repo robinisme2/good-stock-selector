@@ -1,0 +1,1 @@
+# good-stock-selector
